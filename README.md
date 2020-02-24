@@ -2,8 +2,8 @@
 
 ## Description
 
-### This project explains the foundations of video games
+This project explains the foundations of video games
 
 ## About me
 
-### GitHub User: victornisa
+- GitHub User: VictorNisa   [link](github.com/VictorNisa)
