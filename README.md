@@ -1,4 +1,4 @@
-# Research-Project-Game-Pillars
+# Research Project: Game Pillars
 
 ## Description
 
