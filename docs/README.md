@@ -9,7 +9,11 @@
 
 [**3. RTS Game Pillars**](/Research-Project-Game-Pillars/#3-rts-game-pillars)
 
-[**4. Documentation**](/Research-Project-Game-Pillars/#4-documentation)
+[**4. Good and Bad Game Pillars**](/Research-Project-Game-Pillars/#4-good-and-bad-game-pillars)
+
+[**5. Your turn now**](/Research-Project-Game-Pillars/#5-your-turn-now)
+
+[**6. Documentation**](/Research-Project-Game-Pillars/#6-documentation)
 
 
 
@@ -119,7 +123,41 @@ It is also remarkable that **only 75 out of the 3000 voters** thought that all D
 
 ![](images/RTS%20FOW.png)
 
-## 4. Documentation
+## 4. Good and Bad Game Pillars
+
+To understand what is a "good" Game Pillar, we must focus on what can we do as developers. Even if a Game Pillar comes from a great idea, and would really be good in a AAA game, if the developers are University students the Pillar might not make the players feel what is intended. An example would be having "story" as a Game Pillar. AAA games have scriptwriters with many years of experience.
+
+There are, however, "bad" Game Pillars. When you mistakenly have a game mechanic which gives no emotion to players as a Game Pillar, you might start basing the game around a pointless features. It is mandatory to be sure that your Game Pillars are as solid as possible, or else you might find an irreversible error too late into the development cycle.
+
+
+## 5. Your Turn Now
+
+Think about two examples of good Game Pillars and an example of a bad one of the following games:
+
+Example: Eyes of Heaven
+
+![eyes](images/Eyes.gif)
+
+Good Pillars:
+- Memorable Characters
+- Story mode
+
+Bad Pillars:
+- Funny: Although a funny game transfers emotions to players, it is not a good Game Pillar because it is too vague. An improvement could be "make jokes"
+
+- Mario Kart
+
+![Kart](images/Kart.jpg)
+
+- Clash Royale
+
+![CR](images/Clash.jpg)
+
+- Shadow of the Colossus
+
+![Col](images/Colossus.jpg)
+
+## 6. Documentation
 
 https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2
 
@@ -128,5 +166,13 @@ http://technicalgamedesign.blogspot.com/2011/04/pillars.html
 https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
 
 https://www.gamasutra.com/blogs/BrandonCasteel/20161011/282943/Inspired_Designs_in_Relics_RTS_Games.php
+
+https://i.blogs.es/acd781/mario-kart-8-deluxe/450_1000.jpg
+
+https://i0.wp.com/metodologic.net/wp-content/uploads/2018/03/Shadow_Colossus_portada.jpg?fit=800%2C571&ssl=1
+
+https://lh3.googleusercontent.com/knZ_O4yoXJ2OPDlWBW7FFPAhpOonfOB7e3uMpZbuH8AktBCiqe2LaFfTcUaS-bDsFw
+
+https://steamuserimages-a.akamaihd.net/ugc/262714717783384304/35ACD1CB753213984C3624AE450899424390744F/
 
 Additional images and gifs recorded by myself and from Steam Community.
