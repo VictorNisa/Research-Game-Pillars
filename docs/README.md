@@ -4,13 +4,13 @@
 
 ## Index
 
-### 1. Introduction
+[**1. Introduction**]
 
-### 2. Example Games and Pillars
+[**2. Example Games and Pillars**]
 
-### 3. RTS Game Pillars
+[**3. RTS Game Pillars**]
 
-### 4. Documentation
+[**4. Documentation**]
 
 
 
@@ -26,7 +26,7 @@ First, we need to define what Key Selling Points are. Some game features provide
 
 Although most Game Pillars are Key Selling Points, exposing some Game Pillars can be detrimental for your game. For example, if one of the Game Pillars of a sequel is "Improving bad features from the previous game", it shouldn't become a KSP. Another example of a common hidden Pillar in "Hardcore" games is "accessibility". Their playerbase usually consider accessibility as "making the game easier", thus disliking the game.
 
-## Example Games and Pillars
+## 2. Example Games and Pillars
 
 ### Resident Evil 4 (2005)
 
@@ -77,9 +77,7 @@ Some fights also combined Third Person Shooter combat with Quick Time Events, ma
 
 ### Diablo III (2012)
 
-
-
-![github-large](images/D3%20Screenshot.jpg)
+![github-large](images/D3%20Screenshot.jpeg)
 
 Diablo III has seven main Pillars, as told by Jay Wilson (game director), which are:
 
@@ -103,4 +101,25 @@ A survey was given to 3000 Diablo III players to ask which ones were done well. 
 
 It is also remarkable that only 75 out of the 3000 voters thought that all Design Pillars were done well, against the 600 votes thinking none were done well).
 
-- GitHub User: VictorNisa   [link](http://www.github.com/VictorNisa)
+## 3. RTS Game Pillars
+
+- Intellectual Challenge: An RTS should focus on mental calculation rather than physical dexterity. It should also prioritize skill over chance.
+- Clear objective: The player should know at all times what is their aim. Whether it is an objective as vague as "explore", players should have an idea about their objective.
+
+![github-large](images/FFXII-Obj.png)
+
+- Extensive tutorial: Most RTS contain complex mechanics, meaning that players should be given a way to understand them.
+- Different unit types: An RTS with really similar units can be boring. Making really different units (for example, adding rock-paper-scissors mechanics with 3 types of units) can spice the gameplay.
+
+![github-large](images/FFXII-Rock.png)
+
+- Exploration: The common use of fog of war encourages players to explore and find their objectives rather than rushing them straight up.
+
+![github-large](images/RTS-FOW.png)
+
+## 4. Documentation
+https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2
+http://technicalgamedesign.blogspot.com/2011/04/pillars.html
+https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
+https://www.gamasutra.com/blogs/BrandonCasteel/20161011/282943/Inspired_Designs_in_Relics_RTS_Games.php
+Additional images and gifs recorded by myself and from Steam Community.
