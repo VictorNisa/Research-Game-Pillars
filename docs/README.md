@@ -33,15 +33,19 @@ Although most Game Pillars are Key Selling Points, exposing some Game Pillars ca
 - Challenging: Resident Evil 4 has a steep but flexible difficulty curve. By having adaptive difficulty, the game is always hard, but fair. A limited amount of ammo, few safe sports and an upgrade system are well-balanced elements that make the game be challenging. 
 
 ![github-large](images/RE4%20Difficulty.gif)
+
 - Simple story: As many horror games do, Resident Evil 4 keeps an easy to understand story so new players don't get confused, and players who aren't interested on it won't find it intrusive. However, there are references for people who have played the previous games.
 
 ![github-large](images/RE4%20Story.gif)
+
 - Dynamic: The game broke the stereotype for survival horror that "combat is de-emphasized". Levels are filled with interactive elements like kickable ladders, barricable and breakable doors...), enemies had really good AI for the time (they could be disarmed sepending on where yous shot them, they ambushed the player and tried to dodge incoming attacks...). 
 
 ![github-large](images/RE4%20Combat%202.gif)
+
 Developers expect you to die a lot, so there were more than 100 unique ways to die, making the fact of constantly dying a bit less repetitive.
 
 ![github-large](images/RE4%20Death.gif)
+
 Some fights also combined Third Person Shooter combat with Quick Time Events, making them more dynamic.
 
 ![github-large](images/RE4%20Combat.gif)
@@ -49,13 +53,31 @@ Some fights also combined Third Person Shooter combat with Quick Time Events, ma
 ### Iconoclasts (2018)
 
 ![github-large](images/ICO%20Companion%202.gif)
+
 - Story: The game has a heavy narrative lead. Almost every NPC could be talked to several times, and the player truly feels that the game world is alive. This Pillar is further emphasized by the next one.
 - Choices: The main character rarely speaks, but whenever she does, we are able to choose what to say. 
 
 ![github-large](images/ICO%20Story.gif)
-- Simple tutorial: To avoid making the player think they're being treated as dumb, the controls are shown at the beginning of the game and from that point onwards, mechanics are learned by paying attention to the environment (At the images, you can see how an NPC teaches you how to dodge an attack, and how the player knows they have to rotate their wrench to deflect projectiles by looking at the green particles left by enemies).
 
-### Diablo III
+- Simple tutorial: To avoid making the player think they're being treated as dumb, the controls are shown at the beginning of the game and from that point onwards, mechanics are learned by paying attention to the environment. (The first image shows the controls tutorial. The next two images show an NPC teaching you how to dodge an attack, and how the player knows they have to rotate their wrench to deflect projectiles by looking at the green particles left by enemies).
+
+![github-large](images/ICO%20Tutorial%203.gif)
+![github-large](images/ICO%20Tutorial%202.gif)
+![github-large](images/ICO%20Tutorial.gif)
+
+- Exploration: The game is full of puzzles, but the hardest of them are optional. Solving them, however, requires a keen eye, as the game is full of hidden rooms. Players who love exploring will be rewarded with collectibles, optional bosses and small bits of lore.
+
+![github-large](images/ICO%20Exploration.gif)
+
+- Companion: During a great part of the game, you're accompanied by different partners, even during bossfights. Getting used to having a companion makes the player feel more tense during the parts where the main character is alone.
+
+![github-large](ICO%20Companion.gif)
+
+### Diablo III (2012)
+
+
+
+![github-large](D3%20Screenshot.jpg)
 
 Diablo III has seven main Pillars, as told by Jay Wilson (game director), which are:
 
