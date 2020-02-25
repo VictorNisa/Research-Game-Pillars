@@ -1,5 +1,5 @@
 
-![github-large](images/Pillars%20Concept.png)
+![](images/Pillars%20Concept.png)
 
 ## Index
 
@@ -32,54 +32,54 @@ Although most Game Pillars are Key Selling Points, exposing some Game Pillars ca
 
 ### Resident Evil 4 (2005)
 
-![github-large](images/RE4%20Summary.gif)
+![](images/RE4%20Summary.gif)
 
-- **Challenging:** Resident Evil 4 has a steep but flexible difficulty curve. By having adaptive difficulty, the game is always hard, but fair. A limited amount of ammo, few safe sports and an upgrade system are well-balanced elements that make the game be challenging. 
+- **Challenging:** Resident Evil 4 has a steep but flexible difficulty curve. By having adaptive difficulty, the game is always hard, but fair. A limited amount of ammo, few safe spots and an upgrade system are well-balanced elements that make the game challenging. 
 
-![github-large](images/RE4%20Difficulty.gif)
+![](images/RE4%20Difficulty.gif)
 
 - **Simple story:** As many horror games do, Resident Evil 4 keeps an easy to understand story so new players don't get confused, and players who aren't interested on it won't find it intrusive. However, there are references for people who have played the previous games.
 
-![github-large](images/RE4%20Story.gif)
+![](images/RE4%20Story.gif)
 
-- **Dynamic:** The game broke the stereotype for survival horror that "combat is de-emphasized". Levels are filled with interactive elements like kickable ladders, barricable and breakable doors...), enemies had really good AI for the time (they could be disarmed sepending on where yous shot them, they ambushed the player and tried to dodge incoming attacks...). 
+- **Dynamic:** The game broke the stereotype for survival horror that "combat is de-emphasized". Levels are filled with interactive elements like kickable ladders, barricable and breakable doors...), enemies have a really good AI for the time (they could be disarmed depending on where you shot them, they ambushed the player and tried to dodge incoming attacks...). 
 
-![github-large](images/RE4%20Combat%202.gif)
+![](images/RE4%20Combat%202.gif)
 
-Developers expect you to die a lot, so there were more than 100 unique ways to die, making the fact of constantly dying a bit less repetitive.
+Developers expect you to die a lot, so there are more than 100 unique ways to die, making the fact of constantly dying a bit less repetitive.
 
-![github-large](images/RE4%20Death.gif)
+![](images/RE4%20Death.gif)
 
 Some fights also combined Third Person Shooter combat with Quick Time Events, making them more dynamic.
 
-![github-large](images/RE4%20Combat.gif)
+![](images/RE4%20Combat.gif)
 
 ### Iconoclasts (2018)
 
-![github-large](images/ICO%20Companion%202.gif)
+![](images/ICO%20Companion%202.gif)
 
 - **Story:** The game has a heavy narrative lead. Almost every NPC could be talked to several times, and the player truly feels that the game world is alive. This Pillar is further emphasized by the next one.
-- Choices: The main character rarely speaks, but whenever she does, we are able to choose what to say. 
+- **Choices:** The main character rarely speaks, but whenever she does, we are able to choose what to say. 
 
-![github-large](images/ICO%20Story.gif)
+![](images/ICO%20Story.gif)
 
 - **Simple tutorial:** To avoid making the player think they're being treated as dumb, the controls are shown at the beginning of the game and from that point onwards, mechanics are learned by paying attention to the environment. (The first image shows the controls tutorial. The next two images show an NPC teaching you how to dodge an attack, and how the player knows they have to rotate their wrench to deflect projectiles by looking at the green particles left by enemies).
 
-![github-large](images/ICO%20Tutorial%203.gif)
-![github-large](images/ICO%20Tutorial%202.gif)
-![github-large](images/ICO%20Tutorial.gif)
+![](images/ICO%20Tutorial%203.gif)
+![](images/ICO%20Tutorial%202.gif)
+![](images/ICO%20Tutorial.gif)
 
-- **Exploration:** The game is full of puzzles, but the hardest of them are optional. Solving them, however, requires a keen eye, as the game is full of hidden rooms. Players who love exploring will be rewarded with collectibles, optional bosses and small bits of lore.
+- **Exploration:** The game is full of puzzles, some of them optional. Solving them, however, requires a keen eye, as the game is full of hidden rooms. Players who love exploring will be rewarded with collectibles, optional bosses and small bits of lore.
 
-![github-large](images/ICO%20Exploration.gif)
+![](images/ICO%20Exploration.gif)
 
 - **Companion:** During a great part of the game, you're accompanied by different partners, even during bossfights. Getting used to having a companion makes the player feel more tense during the parts where the main character is alone.
 
-![github-large](images/ICO%20Companion.gif)
+![](images/ICO%20Companion.gif)
 
 ### Diablo III (2012)
 
-![github-large](images/D3%20Screenshot.jpeg)
+![](images/D3%20Screenshot.jpeg)
 
 Diablo III has seven main Pillars, as told by Jay Wilson (game director), which are:
 
@@ -108,16 +108,16 @@ It is also remarkable that **only 75 out of the 3000 voters** thought that all D
 - **Intellectual Challenge:** An RTS should focus on mental calculation rather than physical dexterity. It should also prioritize skill over chance.
 - **Clear objective:** The player should know at all times what is their aim. Whether it is an objective as vague as "explore", players should have an idea about their objective.
 
-![github-large](images/FFXII%20Obj.png)
+![](images/FFXII%20Obj.png)
 
 - **Extensive tutorial:** Most RTS contain complex mechanics, meaning that players should be given a way to understand them.
 - **Different unit types:** An RTS with really similar units can be boring. Making really different units (for example, adding rock-paper-scissors mechanics with 3 types of units) can spice the gameplay.
 
-![github-large](images/FFXII%20Rock.png)
+![](images/FFXII%20Rock.png)
 
 - **Exploration:** The common use of fog of war encourages players to explore and find their objectives rather than rushing them straight up.
 
-![github-large](images/RTS%20FOW.png)
+![](images/RTS%20FOW.png)
 
 ## 4. Documentation
 
