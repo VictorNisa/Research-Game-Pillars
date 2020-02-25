@@ -6,11 +6,11 @@
 
 [**1. Introduction**](/Research-Project-Game-Pillars/docs/#1-introduction)
 
-[**2. Example Games and Pillars**](/Research-Project-Game-Pillars/docs/#2-Example-Games-and-Pillars)
+[**2. Example Games and Pillars**](/Research-Project-Game-Pillars/docs/#2-example-Games-and-pillars)
 
-[**3. RTS Game Pillars**](/Research-Project-Game-Pillars/docs/#3-RTS-Game-Pillars)
+[**3. RTS Game Pillars**](/Research-Project-Game-Pillars/docs/#3-rts-game-pillars)
 
-[**4. Documentation**](/Research-Project-Game-Pillars/docs/#4-Documentation)
+[**4. Documentation**](/Research-Project-Game-Pillars/docs/#4-documentation)
 
 
 
