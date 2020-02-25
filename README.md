@@ -1,9 +1,9 @@
-# Research-Project-Game-Pillars
+# Research Project: Game Pillars
 
 ## Description
 
-### This project explains the foundations of video games
+This project explains the foundations of video games
 
 ## About me
 
-### GitHub User: victornisa
+- GitHub User: VictorNisa   [link](http://www.github.com/VictorNisa)
