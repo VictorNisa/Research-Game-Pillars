@@ -108,16 +108,16 @@ It is also remarkable that **only 75 out of the 3000 voters** thought that all D
 - **Intellectual Challenge:** An RTS should focus on mental calculation rather than physical dexterity. It should also prioritize skill over chance.
 - **Clear objective:** The player should know at all times what is their aim. Whether it is an objective as vague as "explore", players should have an idea about their objective.
 
-![github-large](images/FFXII-Obj.png)
+![github-large](images/FFXII%20Obj.png)
 
 - **Extensive tutorial:** Most RTS contain complex mechanics, meaning that players should be given a way to understand them.
 - **Different unit types:** An RTS with really similar units can be boring. Making really different units (for example, adding rock-paper-scissors mechanics with 3 types of units) can spice the gameplay.
 
-![github-large](images/FFXII-Rock.png)
+![github-large](images/FFXII%20Rock.png)
 
 - **Exploration:** The common use of fog of war encourages players to explore and find their objectives rather than rushing them straight up.
 
-![github-large](images/RTS-FOW.png)
+![github-large](images/RTS%20FOW.png)
 
 ## 4. Documentation
 https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2
