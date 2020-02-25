@@ -120,8 +120,13 @@ It is also remarkable that **only 75 out of the 3000 voters** thought that all D
 ![github-large](images/RTS%20FOW.png)
 
 ## 4. Documentation
+
 https://www.diabloii.net/blog/comments/diablo-3s-seven-design-pillars-2
+
 http://technicalgamedesign.blogspot.com/2011/04/pillars.html
+
 https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
+
 https://www.gamasutra.com/blogs/BrandonCasteel/20161011/282943/Inspired_Designs_in_Relics_RTS_Games.php
+
 Additional images and gifs recorded by myself and from Steam Community.
