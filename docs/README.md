@@ -1,5 +1,7 @@
 # Research Project: Game Pillars
 
+![github-large](images/Pillars%20Concept.png)
+
 ## Index
 
 ### 1. Introduction
@@ -71,13 +73,13 @@ Some fights also combined Third Person Shooter combat with Quick Time Events, ma
 
 - Companion: During a great part of the game, you're accompanied by different partners, even during bossfights. Getting used to having a companion makes the player feel more tense during the parts where the main character is alone.
 
-![github-large](ICO%20Companion.gif)
+![github-large](images/ICO%20Companion.gif)
 
 ### Diablo III (2012)
 
 
 
-![github-large](D3%20Screenshot.jpg)
+![github-large](images/D3%20Screenshot.jpg)
 
 Diablo III has seven main Pillars, as told by Jay Wilson (game director), which are:
 
