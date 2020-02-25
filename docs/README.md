@@ -4,9 +4,9 @@
 
 ## Index
 
-[**1. Introduction**]
+[**1. Introduction**](README.md#1-introduction)
 
-[**2. Example Games and Pillars**]
+[**2. Example Games and Pillars**](README.md#2-Example-Games-and-Pillars)
 
 [**3. RTS Game Pillars**]
 
