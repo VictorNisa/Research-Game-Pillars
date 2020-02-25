@@ -134,7 +134,7 @@ There are, however, "bad" Game Pillars. When you mistakenly have a game mechanic
 
 Think about two examples of good Game Pillars and an example of a bad one of the following games:
 
-Example: Eyes of Heaven
+### Example: Eyes of Heaven
 
 ![eyes](images/Eyes.gif)
 
@@ -145,15 +145,15 @@ Good Pillars:
 Bad Pillars:
 - Funny: Although a funny game transfers emotions to players, it is not a good Game Pillar because it is too vague. An improvement could be "make jokes"
 
-- Mario Kart
+### Mario Kart
 
 ![Kart](images/Kart.jpg)
 
-- Clash Royale
+Clash Royale
 
 ![CR](images/Clash.jpg)
 
-- Shadow of the Colossus
+### Shadow of the Colossus
 
 ![Col](images/Colossus.jpg)
 
