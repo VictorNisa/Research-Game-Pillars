@@ -129,6 +129,7 @@ To understand what is a "good" Game Pillar, we must focus on what can we do as d
 
 There are, however, "bad" Game Pillars. When you mistakenly have a game mechanic which gives no emotion to players as a Game Pillar, you might start basing the game around a pointless features. It is mandatory to be sure that your Game Pillars are as solid as possible, or else you might find an irreversible error too late into the development cycle.
 
+Another example of bad Game Pillars are the ones that, even tough they give emotions to players, they are too vague or redundant. Pillars like "GOTY" or "Famous" don't help at all. To set good Pillars, imagine you are the Game Designer and you have to pass the Pillars to other designers, and they  have to create the mechanics based only on them. In this case, "GOTY" isn't a point that Designers can start from.
 
 ## 5. Your Turn Now
 
