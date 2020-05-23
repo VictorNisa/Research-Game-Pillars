@@ -3,17 +3,17 @@
 
 ## Index
 
-[**1. Introduction**](/Research-Project-Game-Pillars/#1-introduction)
+[**1. Introduction**](/Research-Game-Pillars/#1-introduction)
 
-[**2. Example Games and Pillars**](/Research-Project-Game-Pillars/#2-example-Games-and-pillars)
+[**2. Example Games and Pillars**](/Research-Game-Pillars/#2-example-Games-and-pillars)
 
-[**3. RTS Game Pillars**](/Research-Project-Game-Pillars/#3-rts-game-pillars)
+[**3. RTS Game Pillars**](/Research-Game-Pillars/#3-rts-game-pillars)
 
-[**4. Good and Bad Game Pillars**](/Research-Project-Game-Pillars/#4-good-and-bad-game-pillars)
+[**4. Good and Bad Game Pillars**](/Research-Game-Pillars/#4-good-and-bad-game-pillars)
 
-[**5. Your turn now**](/Research-Project-Game-Pillars/#5-your-turn-now)
+[**5. Your turn now**](/Research-Game-Pillars/#5-your-turn-now)
 
-[**6. Documentation**](/Research-Project-Game-Pillars/#6-documentation)
+[**6. Documentation**](/Research-Game-Pillars/#6-documentation)
 
 
 
